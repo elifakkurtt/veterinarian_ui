@@ -5,5 +5,5 @@ The app is built with the GetX state management package for easy navigation and 
 
 ### Used Packages
 
-### GetX: A state management package. It has been used for providing navigation.  
-### Lottie: A package capable of handling JSON-format animations. It has been employed to integrate animated elements seamlessly into the application.
+GetX: A state management package. It has been used for providing navigation.  
+Lottie: A package capable of handling JSON-format animations. It has been employed to integrate animated elements seamlessly into the application.
