@@ -1,16 +1,7 @@
-# veterinarian_ui
+## Veterinarian UI Application
+This application is a veterinarian app developed using Flutter.
+The app is built with the GetX state management package for easy navigation and utilizes the Lottie animation package for integrating dynamic animation.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Used Packages
+GetX: A state management package. It has been used for providing navigation.
+Lottie: A package capable of handling JSON-format animations. It has been employed to integrate animated elements seamlessly into the application.
